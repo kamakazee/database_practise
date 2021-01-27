@@ -1,0 +1,4 @@
+com/badlogic/androidgames/database_practise/MainActivity.java
+ com.badlogic.androidgames.database_practise.MainActivity
+com/badlogic/androidgames/database_practise/BuildConfig.java
+ com.badlogic.androidgames.database_practise.BuildConfig

@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">database_practise</string>
+    <string name="sometext">Welcome to database practise</string>
+    <string name="welcome_text">Welcome to database practise</string>
 </resources>
